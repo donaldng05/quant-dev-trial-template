@@ -1,8 +1,3 @@
-Understood! Here's **everything in one clean Markdown block** – no shell formatting, just a single copy-paste-friendly `README.md` section:
-
----
-
-```markdown
 # Blockhouse Work Trial Repo
 
 This repository consists of the following components:
