@@ -1,0 +1,482 @@
+[
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.1,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.1,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.1,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.1,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.2,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.2,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.2,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.2,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.4,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.4,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.4,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.05,
+    "lambda_under": 0.4,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.1,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.1,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.1,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.1,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.2,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.2,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.2,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.2,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.4,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.4,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.4,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.1,
+    "lambda_under": 0.4,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.1,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.1,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.1,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.1,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.2,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.2,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.2,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.2,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.4,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.4,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.4,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.2,
+    "lambda_under": 0.4,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.1,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.1,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.1,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.1,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.2,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.2,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.2,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.2,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.4,
+    "theta_queue": 0.01,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.4,
+    "theta_queue": 0.05,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.4,
+    "theta_queue": 0.1,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  },
+  {
+    "lambda_over": 0.4,
+    "lambda_under": 0.4,
+    "theta_queue": 0.3,
+    "optimized_total_cash": 1113714.0,
+    "avg_fill_px": 222.7428,
+    "savings_vs_best_ask_bps": -490024.24,
+    "savings_vs_twap_bps": -20027.47,
+    "savings_vs_vwap_bps": -0.52
+  }
+]
